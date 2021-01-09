@@ -1,0 +1,16 @@
+version="1.30"
+tags={
+	"Balance"
+	"Events"
+	"Expansion"
+	"Fixes"
+	"Gameplay"
+	"Historical"
+	"Map"
+	"Military"
+	"Missions And Decisions"
+	"New Nations"
+	"Trade"
+}
+name="Better Colonial Nations"
+supported_version="1.30.4"

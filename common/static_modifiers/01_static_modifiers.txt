@@ -1,0 +1,15 @@
+mercantilism = { #TODO change here to define the bonuses/penalties for mercantilism
+	land_morale = 0.25
+}
+embargo_rivals = {
+	land_morale = 0.3
+}
+
+#TODO look into changing these
+native_assimilation = {
+	trade_goods_size = 0.05
+}
+
+native_aggressiveness = {
+	#local_colonist_placement_chance = -0.005
+}

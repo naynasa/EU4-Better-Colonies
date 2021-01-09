@@ -1,0 +1,7 @@
+﻿l_english:
+ make_viceroyalty_title:0 "Demand viceroyalty"
+ make_viceroyalty_desc:0 "Demand that [From.Monarch.GetName] of [From.GetName] becomes our viceroyalty. This will benefit our mutual Trust!"
+ make_viceroyalty_tooltip:0 "Demand that they become our viceroyalty."
+ make_viceroyalty_dialog:0 "[This.GetName] demands that you become their viceroyalty. This would benefit our mutual Trust!"
+ make_viceroyalty_alert_tooltip:0 "A demand that we become a viceroyalty"
+ HAS_MORE_MANPOWER:0 "[This.GetName] has more manpower than [From.GetName].\n"
